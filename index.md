@@ -1,29 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to True Timer Lite
 
-You can use the [editor on GitHub](https://github.com/noorbittechnologies/truetimerlite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+True Timer Lite is timer application with both instant and multistage timers. True Timer is great timer app with minimalistic design flow and instant access to timers for quick utilities. And multistage functionality for length intervals with different level of customizations.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Features
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+1. **True Timer** is a great functional timer app. 
+2. Its the most simplest mechanism for setting both _multistage_ and _hotspot_ timer in least number of screens and possibly clicks. 
+3. True Timer is very customisable timer with different sound tone for each task selected.
+4. Single Screen for all functionalities available while setting up timer.
+5. Adopted Apple’s latest SwiftUI designs for better UI designs.
+6. True Timer has HotSpot space for instant timer requirement.
+7. HotSpot sound can be customised from Settings tab.
+8. Simultaneous run and control multiple timers.
+9. Supports system Dark and Light themes accordingly.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
