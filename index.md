@@ -3,7 +3,10 @@
 True Timer Lite is timer application with both instant and multistage timers. True Timer is great timer app with minimalistic design flow and instant access to timers for quick utilities. And multistage functionality for length intervals with different level of customizations.
 
 ![](https://github.com/noorbittechnologies/truetimerlite/issues/1#issue-652145828)
-
+<img src="https://github.com/noorbittechnologies/truetimerlite/issues/1#issue-652145828"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+     
 ### Features
 
 1. **True Timer** is a great functional timer app. 
