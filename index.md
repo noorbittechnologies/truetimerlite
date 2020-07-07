@@ -4,8 +4,6 @@ True Timer Lite is timer application with both instant and multistage timers. Tr
 
 ### Features
 
-```markdown
-
 1. **True Timer** is a great functional timer app. 
 2. Its the most simplest mechanism for setting both _multistage_ and _hotspot_ timer in least number of screens and possibly clicks. 
 3. True Timer is very customisable timer with different sound tone for each task selected.
@@ -16,4 +14,3 @@ True Timer Lite is timer application with both instant and multistage timers. Tr
 8. Simultaneous run and control multiple timers.
 9. Supports system Dark and Light themes accordingly.
 
-```
