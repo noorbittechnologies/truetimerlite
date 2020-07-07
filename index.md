@@ -2,6 +2,8 @@
 
 True Timer Lite is timer application with both instant and multistage timers. True Timer is great timer app with minimalistic design flow and instant access to timers for quick utilities. And multistage functionality for length intervals with different level of customizations.
 
+[Icon](/Users/nakshatarsingh/Documents/nak/workspace/Nak/My_Apps/True Timer/docs/Images.xcassets/iOS App Store Icon)
+
 ### Features
 
 1. **True Timer** is a great functional timer app. 
